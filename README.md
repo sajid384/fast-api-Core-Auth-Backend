@@ -359,7 +359,7 @@ pytest
 
 # 👨‍💻 Author
 
-## Sajid Hussain
+## Syed Sajid Hussain
 
 Backend Developer | FastAPI Enthusiast
 
